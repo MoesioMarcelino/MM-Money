@@ -2,10 +2,7 @@
   <img src="https://user-images.githubusercontent.com/37598129/112218719-d5d10280-8c02-11eb-9e78-e7382fc1a06e.png" />
 </p>
 
-<video width="100%" height="400" controls>
-  <source src="./public/video.mp4" type="video/mp4">
-</video>
-
+<img src="https://user-images.githubusercontent.com/37598129/112222123-116dcb80-8c07-11eb-8845-ab4d707cbeb6.gif" width="100%" />
 
 <br />
 <br />
@@ -13,10 +10,10 @@
 # MM Money
 
 This is an application to learn react's bases. I learn more components, styled-components, hooks, context API and Fake API (miragejs).
+Also, this application can be able to add transactions with incomes, outcomes and total value from all transactions.
 
 ## Demo
-You can see a demo live in my [portfolio](https://moesiomarcelino.dev).
-Go to portfolio section and click on project.
+You can see a demo live in my [portfolio](https://moesiomarcelino.dev). Go to portfolio section and click on project.
 
 ## Technologies
  - [ReactJS](https://reactjs.org)
