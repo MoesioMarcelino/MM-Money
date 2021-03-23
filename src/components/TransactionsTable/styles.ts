@@ -36,3 +36,12 @@ export const Container = styled.div`
     }
   }
 `;
+
+export const WithoutTransactions = styled.span`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 10rem;
+  color: var(--text-body);
+`;
