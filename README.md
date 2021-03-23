@@ -4,9 +4,6 @@
 
 <img src="https://user-images.githubusercontent.com/37598129/112222123-116dcb80-8c07-11eb-8845-ab4d707cbeb6.gif" width="100%" />
 
-<br />
-<br />
-
 # MM Money
 
 This is an application to learn react's bases. I learn more components, styled-components, hooks, context API and Fake API (miragejs).
