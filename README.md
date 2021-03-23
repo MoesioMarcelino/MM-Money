@@ -2,7 +2,9 @@
   <img src="https://user-images.githubusercontent.com/37598129/112218719-d5d10280-8c02-11eb-9e78-e7382fc1a06e.png" />
 </p>
 
-https://user-images.githubusercontent.com/37598129/112218514-8db1e000-8c02-11eb-8062-8a2fc034ea11.mp4
+<video width="100%" height="400" controls>
+  <source src="./public/video.mp4" type="video/mp4">
+</video>
 
 
 <br />
