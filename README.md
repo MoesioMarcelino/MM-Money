@@ -10,7 +10,7 @@ This is an application to learn react's bases. I learn more components, styled-c
 Also, this application can be able to add transactions with incomes, outcomes and total value from all transactions.
 
 ## Demo
-You can see a demo live in my [portfolio](https://moesiomarcelino.dev). Go to portfolio section and click on project.
+You can see a demo live in my [portfolio](https://moesiomarcelino.com). Go to portfolio section and click on project.
 
 ## Technologies
  - [ReactJS](https://reactjs.org)
@@ -40,10 +40,8 @@ yarn start
 All sugestions and contributions are welcome! In this case, contact me through the links below
 
 ## Networking
-- [Porfolio](https://moesiomarcelino.dev)
+- [Porfolio](https://moesiomarcelino.com)
 - [GitHub](https://github.com/MoesioMarcelino)
 - [Linkedin](https://br.linkedin.com/in/mo%C3%A9sio-marcelino-2348a5152)
-- [Instagram](https://www.instagram.com/moesiomarcelino/)
-- [Whatsapp](https://wa.me/5588997129443?text=Ol%C3%A1,%20Mo%C3%A9sio!%20)
 
 
